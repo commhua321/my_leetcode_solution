@@ -1,5 +1,5 @@
 # My LeetCode
-**0** / **690** problems have been solved, **131** problems are locked.
+**1** / **690** problems have been solved, **131** problems are locked.
 
 This repository shows my solutions by C, C++ or Python. Solutions were added after I solved each problem
 
@@ -9,7 +9,7 @@ This repository shows my solutions by C, C++ or Python. Solutions were added aft
 ## LeetCode Solution
 | ID | Problem | Difficulty | c | Python | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy| | | |
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[c](https://github.com/commhua321/my_leetcode_solution/blob/master/my-leetcode-algorithms/001.%20Two%20Sum/two_sun.c)| | |
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium| | | |
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium| | | |
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard| | | |
