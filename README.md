@@ -10,7 +10,7 @@ This repository shows my solutions by C, C++ or Python. Solutions were added aft
 | ID | Problem | Difficulty | c | Python | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[c](https://github.com/commhua321/my_leetcode_solution/blob/master/my-leetcode-algorithms/001.%20Two%20Sum/two_sun.c)| | |
-|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium| | |[C++](https://github.com/commhua321/my_leetcode_solution/blob/master/my-leetcode-algorithms/002.%20Add%20Two%20Numbers/add_two number.cpp)|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium| | |[C++](https://github.com/commhua321/my_leetcode_solution/blob/master/my-leetcode-algorithms/002.%20Add%20Two%20Numbers/add_two_number.cpp)|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium| | | |
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard| | | |
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium| | | |
