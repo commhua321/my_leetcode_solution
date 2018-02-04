@@ -1,5 +1,5 @@
 # My LeetCode
-**2** / **690** problems have been solved, **131** problems are locked.
+**3** / **694** problems have been solved, **132** problems are locked.
 
 This repository shows my solutions by C, C++ or Python. Solutions were added after I solved each problem
 
@@ -15,7 +15,7 @@ This repository shows my solutions by C, C++ or Python. Solutions were added aft
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard| | | |
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium| | | |
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium| | | |
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy| | | |
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy| | |[C++](https://github.com/commhua321/my_leetcode_solution/blob/master/my-leetcode-algorithms/007.%20Reverse%20Integer/Reverse_Integer.cpp)|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium| | | |
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy| | | |
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard| | | |
@@ -699,3 +699,7 @@ This repository shows my solutions by C, C++ or Python. Solutions were added aft
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard| | | |
 |774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard| | | |
 |775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium| | | |
+|776|[Split BST](https://leetcode.com/problems/split-bst/description/) :lock:|Medium| | | |
+|777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) |Medium| | | |
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |Hard| | | |
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) |Medium| | | |
